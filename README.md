@@ -33,4 +33,4 @@ I’m a German-Thai multidisciplinary designer focusing on user experience, digi
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonphumin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonphumin&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
