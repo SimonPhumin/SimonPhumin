@@ -2,12 +2,20 @@
 
 I’m a German-Thai multidisciplinary designer focusing on user experience, digital accesibility and front-end development.
 
+<div id="badges-tech">
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+  </a>
   <a href="https://angular.io/">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge"/>
   </a>
     <a href="https://svelte.dev/">
     <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte Badge"/>
   </a>
+    <a href="https://figma.com/">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
+  </a>
+</div>
 
 ## Social
 
@@ -22,5 +30,7 @@ I’m a German-Thai multidisciplinary designer focusing on user experience, digi
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
+## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonphumin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
