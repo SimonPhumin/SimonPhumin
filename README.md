@@ -1,6 +1,6 @@
 # 👋 [Hi, I'm Simon Phumin](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-I’m a German-Thai multidisciplinary designer focusing on user experience, digital accesibility and front-end development.
+I’m a German-Thai multidisciplinary designer focusing on user experience, digital accessibility and front-end development.
 
 <div id="badges-tech">
   <a href="https://www.typescriptlang.org/">
