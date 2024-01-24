@@ -24,4 +24,4 @@ I’m a German-Thai multidisciplinary designer focusing on user experience, digi
 
 ## Buy me a Coffee
 
-<p><a href="https://www.buymeacoffee.com/simonphumin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" alt="Buy me a coffee logo" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/simonphumin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy me a coffee logo" /></a></p><br><br>
