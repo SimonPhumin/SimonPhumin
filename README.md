@@ -20,7 +20,7 @@ I’m a German-Thai multidisciplinary designer focusing on user experience, digi
 
 ## Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=simonphumin&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=simonphumin&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Buy me a Coffee
 
