@@ -14,9 +14,9 @@ I’m a German-Thai multidisciplinary designer focusing on user experience, digi
 
 ## Social
 
-![ReactNative](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)
-![ReactNative](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)
-![ReactNative](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonschweikert/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/simonphumin)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/simonphumin)
 
 ## Stats
 
