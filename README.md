@@ -12,6 +12,8 @@ I’m a German-Thai multidisciplinary designer focusing on user experience, digi
 
 ![Ghost Badge](https://img.shields.io/badge/Ghost-15171A?logo=ghost&logoColor=fff&style=for-the-badge) ![Directus Badge](https://img.shields.io/badge/Directus-263238?logo=directus&logoColor=fff&style=for-the-badge) ![Contentful Badge](https://img.shields.io/badge/Contentful-2478CC?logo=contentful&logoColor=fff&style=for-the-badge) ![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge) ![Serverless Badge](https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=fff&style=for-the-badge) ![GreenSock Badge](https://img.shields.io/badge/GreenSock-88CE02?logo=greensock&logoColor=fff&style=for-the-badge)
 
+![Podman Badge](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=fff&style=for-the-badge) ![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge) ![Authelia Badge](https://img.shields.io/badge/Authelia-113155?logo=authelia&logoColor=fff&style=for-the-badge)
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Badge](https://img.shields.io/badge/Sketch-F7B500?logo=sketch&logoColor=fff&style=for-the-badge) ![Framer Badge](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff&style=for-the-badge) ![Interaction Design Foundation Badge](https://img.shields.io/badge/Interaction%20Design%20Foundation-2B2B2B?logo=interactiondesignfoundation&logoColor=fff&style=for-the-badge)
 
 ## Social
