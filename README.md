@@ -22,6 +22,4 @@ I’m a German-Thai multidisciplinary designer focusing on user experience, digi
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=simonphumin&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-## Buy me a Coffee
-
 <p><a href="https://www.buymeacoffee.com/simonphumin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy me a coffee logo" /></a></p><br><br>
