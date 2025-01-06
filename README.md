@@ -1,6 +1,6 @@
 # 👋 [Hi, I'm Simon Phumin](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-I’m a German-Thai product designer focussing on digital accessibility, interaction and front-end development.
+I’m a German-Thai product designer focussing on digital accessibility, UX and front-end development.
 
 ## Technologies
 
