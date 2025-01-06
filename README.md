@@ -1,6 +1,6 @@
 # 👋 [Hi, I'm Simon Phumin](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-I’m a designer focusing on user experience, inclusive design, digital accessibility and front-end development.
+I’m a German-Thai product designer focussing on digital accessibility, interaction and front-end development.
 
 ## Technologies
 
@@ -28,11 +28,9 @@ I’m a designer focusing on user experience, inclusive design, digital accessib
 ## Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonschweikert/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/simonphumin)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/simonphumin)
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@simonphumin)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=for-the-badge)](https://open.spotify.com/user/simonphumin)
-[![Interaction Design Foundation Badge](https://img.shields.io/badge/Interaction%20Design%20Foundation-2B2B2B?logo=interactiondesignfoundation&logoColor=fff&style=for-the-badge)](https://www.interaction-design.org/members/simon-phumin-schweikert)
 
 ## Stats
 
