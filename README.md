@@ -32,8 +32,4 @@ I’m a German-Thai product designer focusing on digital accessibility, UX and f
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@simonphumin)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=for-the-badge)](https://open.spotify.com/user/simonphumin)
 
-## Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonphumin)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
-
 <p><a href="https://www.buymeacoffee.com/simonphumin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy me a coffee logo" /></a></p><br><br>
