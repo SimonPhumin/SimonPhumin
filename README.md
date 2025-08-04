@@ -2,8 +2,9 @@
 
 I’m a German-Thai product designer focusing on digital accessibility, UX and front-end development.
 
-## Technologies
+## Technologies / Tools / Frameworks
 
+[![Linear](https://img.shields.io/badge/Linear-000.svg?style=flat&logoColor=fff&logo=linear)](https://www.typescriptlang.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logoColor=fff&logo=typescript)](https://www.typescriptlang.org/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)](https://angular.dev/)
 [![Svelte](https://img.shields.io/badge/Svelte-fff?style=flat&logo=svelte&logoColor=FF3E00)](https://svelte.dev/)
@@ -27,7 +28,6 @@ I’m a German-Thai product designer focusing on digital accessibility, UX and f
 [![OpenAI Badge](https://img.shields.io/badge/OpenAI-000?logo=openai&logoColor=fff&style=flat)](https://openai.com/)
 [![Perplexity Badge](https://img.shields.io/badge/Perplexity-000?logo=perplexity&logoColor=fff&style=flat)](https://openai.com/)
 [![Claude Badge](https://img.shields.io/badge/Claude-000?logo=claude&logoColor=D97757&style=flat)](https://openai.com/)
-[![Authelia Badge](https://img.shields.io/badge/Authelia-113155?logo=authelia&logoColor=fff&style=flat)](https://www.authelia.com/)
 [![shadcn/ui Badge](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=flat)](https://www.shadcn-svelte.com/)
 [![Figma](https://img.shields.io/badge/Figma-000?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Sketch Badge](https://img.shields.io/badge/Sketch-000?logo=sketch&logoColor=fff&style=flat)](https://www.sketch.com/)
@@ -36,8 +36,8 @@ I’m a German-Thai product designer focusing on digital accessibility, UX and f
 ## Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonschweikert/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/simonphumin)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=flat&logo=instagram&logoColor=white)](https://instagram.com/simonphumin)
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@simonphumin)
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=flat)](https://open.spotify.com/user/simonphumin)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-000?logo=spotify&logoColor=1DB954&style=flat)](https://open.spotify.com/user/simonphumin)
 
-<p><a href="https://www.buymeacoffee.com/simonphumin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy me a coffee logo" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/simonphumin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy me a coffee logo" /></a></p>
