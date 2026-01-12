@@ -5,6 +5,7 @@ I’m a German-Thai product designer focusing on digital accessibility, UX and f
 ## Technologies / Tools / Frameworks
 
 [![Linear](https://img.shields.io/badge/Linear-000.svg?style=flat&logoColor=fff&logo=linear)](https://linear.app/)
+[![Cursor](https://img.shields.io/badge/Cursor-000.svg?style=flat&logoColor=fff&logo=cursor)](https://cursor.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logoColor=fff&logo=typescript)](https://www.typescriptlang.org/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)](https://angular.dev/)
 [![Svelte](https://img.shields.io/badge/Svelte-fff?style=flat&logo=svelte&logoColor=FF3E00)](https://svelte.dev/)
